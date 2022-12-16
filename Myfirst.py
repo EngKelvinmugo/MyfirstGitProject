@@ -1,1 +1,4 @@
-print("This is to test my git and github ")
+x=4
+y=8
+z=(x+y)/2
+print(z)
